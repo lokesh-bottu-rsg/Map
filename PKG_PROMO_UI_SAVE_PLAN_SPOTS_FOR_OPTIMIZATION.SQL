@@ -89,8 +89,6 @@ BEGIN
 
     END IF;
 
-
-
     MERGE INTO PR_PLAN_PROJECT T
     USING (
 
